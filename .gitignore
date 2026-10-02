@@ -1,0 +1,33 @@
+﻿Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+Virtual Environment
+venv/
+env/
+ENV/
+
+IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Project Data Files (auto-generated)
+game_settings.json
+scores.csv
+*.csv
+*.json
+*.log
+.env
+
+Jupyter Notebooks
+.ipynb_checkpoints/
